@@ -1,4 +1,4 @@
-to try out:
+a repo to try out:
 - numba
 - pypy
 - codon
